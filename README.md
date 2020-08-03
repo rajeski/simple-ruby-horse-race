@@ -1,2 +1,2 @@
 # (Simple) Ruby Horse Race
-## Working draft of this model as part of coding a basic Ruby project example.
+## This is a working draft of this model as part of coding a basic Ruby project example.
